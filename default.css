@@ -1,4 +1,4 @@
-﻿/*Created with Adobe RoboHelp 10.*/
+﻿/*Created with Adobe RoboHelp 2017.*/
 body {
 	font-family: Arial;
 	background-color: #ffffff;
@@ -28,9 +28,9 @@ h6 {
 	font-size: 8.0pt;
 }
 p {
-	font-size: 12.0pt;
 	margin-top: 0pt;
 	margin-bottom: 0pt;
+	font-size: 12pt;
 }
 a.expandspot {
 	color: #008000;
