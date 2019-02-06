@@ -39,7 +39,16 @@
 		<TODOItem>Finalized</TODOItem>
 		<TODOItem>Reviewed</TODOItem>
 	</TODOList>
-	<miscproperties/>
+	<miscproperties>
+		<matchedpair>
+			<name>vc::provider</name>
+			<value>FILESYS</value>
+		</matchedpair>
+		<matchedpair>
+			<name>vc::agent</name>
+			<value>FILESYS</value>
+		</matchedpair>
+	</miscproperties>
 	<CompileOptions>
 		<Flags>12</Flags>
 	</CompileOptions>
